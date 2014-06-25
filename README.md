@@ -30,7 +30,7 @@ end - when you finish dragging stuff around
 Note that the element itself shouldn't has any class of 'x', 'y' or 'xy' when you create a gesture - these settings are for dragging elements only! More detailed sample can be found at '2.gesture.html'
 
 
-Now what?
+now what?
 ---------
 
 There are more samples to play with... fell free to explore them and check their relevancy to your projects
