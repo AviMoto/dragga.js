@@ -1,4 +1,4 @@
-dragga
+dragga.js
 ======
 
 
@@ -13,9 +13,11 @@ drag
 
 when you wish to make some drag effect over an element in your document, all you need to do is to call it's selector and use the dragga plugin. For instance:
 
-$('#myDragElement').dragga();
+    $('#myDragElement').dragga();
 
-Note that the element must also define the 'x' class, 'y' class or 'xy' class in order to determine the available axis for dragging. For more detailed sample please open '1.drag.html' file in your browser as well as in your code editor
+watch a live sample online by [clicking here](http://codepen.io/ymz-rocks/pen/eAjGy)
+
+Note that the element must also define the 'x' class, 'y' class or 'xy' class in order to determine the available axis for dragging. For more detailed information please download this lib and open file '1.drag.html' in your browser as well as in your code editor
 
 
 gestures
@@ -33,7 +35,7 @@ Note that the element itself shouldn't has any class of 'x', 'y' or 'xy' when yo
 now what?
 ---------
 
-There are more samples to play with... fell free to explore them and check their relevancy to your projects
+There are more samples to play with... feel free to explore them and check their relevancy to your projects
 
 Enjoy :)
 
