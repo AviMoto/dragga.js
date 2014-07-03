@@ -25,9 +25,9 @@ gestures
 
 Capturing gestures is also available, once you control the listeners for every drag element. Basically, each element has 3 main listeners:
 
-start - when the drag (or gesture) begins
-drag - when you drag an element or drag your finger around
-end - when you finish dragging stuff around
+        start - when the drag (or gesture) begins
+        drag - when you drag an element or drag your finger around
+        end - when you finish dragging stuff around
 
 Note that the element itself shouldn't has any class of 'x', 'y' or 'xy' when you create a gesture - these settings are for dragging elements only! More detailed sample can be found at '2.gesture.html'
 
